@@ -7,5 +7,7 @@ clean:
 
 
 clear:
-	rm *
+	rm -f cs202.cpp
+	rm -f cs163.cpp
+	rm -f cs162.cpp
 
